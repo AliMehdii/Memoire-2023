@@ -1,3 +1,4 @@
+![Header](./[Your header image])
 # Memoire-2023
 This repo contains all the code for the project from preprocessing to classification and visualization
 
